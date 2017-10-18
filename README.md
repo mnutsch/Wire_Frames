@@ -2,4 +2,4 @@
 
 This is an assortment of wire-frames that I created for a variety of apps.
 
-These wire-frames were created in MS Paint, GIMP, and Google Drive Images.
+These wire-frames were created with MS Paint, GIMP, or Google Drive Images.
